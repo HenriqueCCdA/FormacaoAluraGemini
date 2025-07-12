@@ -1,0 +1,8 @@
+[project]
+name = "curso1"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv==1.0.1",
+    "google-generativeai==0.8.2",
+]
